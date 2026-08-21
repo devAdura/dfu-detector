@@ -113,4 +113,3 @@ pytest
 ```
 
 Before any clinical study, verify patient-level train/validation/test separation, select thresholds using validation data rather than the test set, conduct external validation, and establish the required privacy and medical-device governance.
-
